@@ -1,3 +1,6 @@
+[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/phil-d-wilson/pixelfed)
+
+
 <p align="center"><img src="https://pixelfed.nyc3.cdn.digitaloceanspaces.com/logos/pixelfed-full-color.svg" width="300px"></p>
 
 <p align="center">
